@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "aedf5aa36b05f586",
+    "type": "split",
+    "children": [
+      {
+        "id": "99bdb4ae4e071fa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "668780ea391a35da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Java基础/1.基本概念/10.定义并运行一个Java程序.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0e89bdf3c934112",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da5ec0421376a6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27af1b73cde3e846",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a13624a87e5f0566",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f0591be8306dedf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4f4dbcc7bc6a0c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "27140c87a462cb83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f614bae3e5c17417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.Java基础/1.基本概念/10.定义并运行一个Java程序.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29ae0a1963017d43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.Java基础/1.基本概念/10.定义并运行一个Java程序.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6f36f8e42ce2866",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d4ff2c7fe163567",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.Java基础/1.基本概念/10.定义并运行一个Java程序.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "27af1b73cde3e846",
+  "lastOpenFiles": [
+    "1.Java基础",
+    "1.Java基础/8.Java处理常见的数据格式/4. 文件.md",
+    "1.Java基础/8.Java处理常见的数据格式/3. 日期和时间.md",
+    "1.Java基础/8.Java处理常见的数据格式/2. 数字和数学运算.md",
+    "1.Java基础/8.Java处理常见的数据格式/1. 文本.md",
+    "1.Java基础/8.Java处理常见的数据格式",
+    "1.Java基础/7.Java集合/8. Stream.md",
+    "1.Java基础/7.Java集合/7. 在集合中使用lambda表达式.md",
+    "1.Java基础/7.Java集合/6. 数组及其辅助方法.md",
+    "1.Java基础/7.Java集合/5. 集合的实用方法.md",
+    "1.Java基础/7.Java集合/4. Queue.md",
+    "1.Java基础/7.Java集合/3. Map.md",
+    "1.Java基础/7.Java集合/2. Collection.md",
+    "1.Java基础/7.Java集合/1. 集合的概念.md",
+    "1.Java基础/7.Java集合",
+    "1.Java基础/6.Java编程和文档约定/3. 可移植程序.md",
+    "1.Java基础/6.Java编程和文档约定/2. Java文档注释.md",
+    "1.Java基础/6.Java编程和文档约定/1. 命名.md",
+    "1.Java基础/6.Java编程和文档约定",
+    "1.Java基础/5.Java实现内存管理和并发编程的方式/2. Java对并发编程的支持.md",
+    "1.Java基础/5.Java实现内存管理和并发编程的方式/1. Java的内存管理.md",
+    "1.Java基础/5.Java实现内存管理和并发编程的方式",
+    "1.Java基础/4.Java面向对象设计/5. 安全性问题.md",
+    "1.Java基础/4.Java面向对象设计/4. 异常.md",
+    "1.Java基础/4.Java面向对象设计/3. 面向对象设计要略.md",
+    "1.Java基础/4.Java面向对象设计/2. java.lang.Object.md",
+    "1.Java基础/4.Java面向对象设计/1. Java的值.md",
+    "1.Java基础/4.Java面向对象设计",
+    "1.Java基础/3.Java类型系统/5. lambda表达式.md",
+    "1.Java基础/3.Java类型系统/4. 嵌套类型.md",
+    "1.Java基础/3.Java类型系统/3. 枚举和注解.md",
+    "1.Java基础/3.Java类型系统",
+    "1.Java基础/2.Java面向对象编程",
+    "1.Java基础/1.基本概念"
+  ]
+}
